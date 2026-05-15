@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "👽",
   category: "공포/미스터리",
   tagline: "지구 너머에서 온 풀리지 않는 흔적들",
+  youtubeUrl: "https://youtube.com/channel/UC8FWVKDkAxdzqLnS5cv2xdQ",
   layoutId: "xfiles-terminal",
   isLight: false,
   tokens: {
