@@ -5,7 +5,7 @@ pubDate: 2026-06-13T09:00:00+09:00
 author: ""
 category: ""
 tags: ["니미츠 UFO", "틱택 UFO", "Tic Tac UAP", "데이비드 프레이버", "2004 미해군 UFO", "UAP 기밀해제"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=SBPveuWe5yM"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-06-13-tic-tac-uav-2004-uss-nimitz/scene-2_img_2.png"
 draft: false
 ---
