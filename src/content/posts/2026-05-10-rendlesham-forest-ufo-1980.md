@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["렌들셤 숲 사건", "영국 UFO", "찰스 홀트", "1980년 UFO 목격", "RAF 벤트워터스", "RAF 우드브리지", "영국판 로즈웰", "미공군 UFO 보고서", "홀트 메모", "Rendlesham Forest Incident", "UFO 실화", "미확인비행물체"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=PqRg0yKNAao"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-10-rendlesham-forest-ufo-1980/intro_img_3.png"
 draft: false
 ---

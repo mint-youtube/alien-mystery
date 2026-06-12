@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:30:00+09:00
 author: ""
 category: ""
 tags: ["렌들셤숲UFO", "미군UFO목격", "영국UFO사건", "핼트중령", "UFO실화", "외계생명체", "UFO다큐멘터리", "미스터리실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=e9S03PUmnLc"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-18-rendlesham-forest-1980/scene-2_img_2.png"
 draft: false
 ---

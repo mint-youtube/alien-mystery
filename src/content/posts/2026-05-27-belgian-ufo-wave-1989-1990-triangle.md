@@ -5,7 +5,7 @@ pubDate: 2026-05-27T20:27:00+09:00
 author: ""
 category: ""
 tags: ["벨기에 UFO 웨이브", "검은 삼각형 UFO", "F-16 UFO 추적", "데 브라우어 장군", "벨기에 공군 보고서", "1989 1990 UFO", "외계 미스터리", "40G 가속도", "글론 레이더", "에프란 목격담"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4zziDkwdFqc"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-27-belgian-ufo-wave-1989-1990-triangle/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-05-19T09:00:00+09:00
 author: ""
 category: ""
 tags: ["피닉스 라이트", "Phoenix Lights", "UFO 목격", "UAP", "1997 UFO 사건", "외계인", "미확인 비행물체", "피닉스 UFO", "NICAP MUFON", "미 국방부 UAP"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Q1puIl8sErg"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-19-phoenix-lights-1997-mass-sighting/scene-2_img_2.png"
 draft: false
 ---

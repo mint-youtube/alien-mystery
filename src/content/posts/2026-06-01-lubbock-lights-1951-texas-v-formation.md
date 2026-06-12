@@ -5,7 +5,7 @@ pubDate: 2026-06-01T09:00:00+09:00
 author: ""
 category: ""
 tags: ["럽벅 라이트", "1951 텍사스 UFO", "카를 하트 사진", "프로젝트 블루북", "V자 대형 UFO", "외계 미스터리", "텍사스 공대 교수", "윌리엄 로빈슨", "판단 불가 UFO", "공군 조사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=XULcDy5iGbg"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-06-01-lubbock-lights-1951-texas-v-formation/scene-2_img_2.png"
 draft: false
 ---

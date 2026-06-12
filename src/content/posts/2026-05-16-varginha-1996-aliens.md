@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["바르지냐 사건", "브라질 UFO", "외계 생명체 목격", "1996년 바르지냐", "미확인 비행 물체", "릴리아니 다 실바", "마르코 셰레지", "브라질 군 은폐", "로즈웰 사건", "외계인 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Cv40lMtZKbk"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-16-varginha-1996-aliens/scene-2_img_2.png"
 draft: false
 ---

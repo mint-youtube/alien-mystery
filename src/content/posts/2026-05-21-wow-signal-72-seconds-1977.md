@@ -5,7 +5,7 @@ pubDate: 2026-05-21T17:18:00+09:00
 author: ""
 category: ""
 tags: ["와우 시그널", "WOW signal", "SETI", "빅이어 망원경", "제리 에만", "Jerry Ehman", "외계 신호", "우주 미스터리", "6EQUJ5", "인마자리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=YggT2IskOT4"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-21-wow-signal-72-seconds-1977/scene-2_img_2.png"
 draft: false
 ---

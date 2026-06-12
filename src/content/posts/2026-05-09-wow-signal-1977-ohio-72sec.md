@@ -5,7 +5,7 @@ pubDate: 2026-05-10T09:00:00+09:00
 author: ""
 category: ""
 tags: ["와우 신호", "Wow Signal", "외계 신호", "빅이어 망원경", "제리 에만", "SETI", "1420MHz 수소 주파수", "외계 지적 생명체", "1977년 우주 신호", "페르미 역설"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Goj_thYc7LY"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-09-wow-signal-1977-ohio-72sec/intro_img_2.png"
 draft: false
 ---

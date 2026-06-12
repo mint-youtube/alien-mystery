@@ -5,7 +5,7 @@ pubDate: 2026-06-02T20:07:00+09:00
 author: ""
 category: ""
 tags: ["새그하버 UFO", "1967 캐나다", "노바스코샤 UFO", "캐나다 해군 수색", "빅터 워브너", "왕립 기마경찰", "외계 미스터리", "공식 미확인", "셸번 잠수함", "노란 거품"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=5D8ga0X9R_Q"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-06-02-shag-harbour-canada-1967-water-impact/scene-2_img_2.png"
 draft: false
 ---

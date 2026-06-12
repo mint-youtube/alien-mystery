@@ -5,7 +5,7 @@ pubDate: 2026-05-29T14:11:00+09:00
 author: ""
 category: ""
 tags: ["케크스버그 UFO", "1965 펜실베이니아 추락", "도토리 모양 물체", "라이트 패터슨 기지", "NASA 정보공개", "코스모스 96", "외계 미스터리", "빌 부닉 증언", "미군 회수 작전", "케크스버그 축제"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ceTjMjZMrmU"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-05-29-kecksburg-1965-pennsylvania-acorn-crash/scene-2_img_2.png"
 draft: false
 ---
