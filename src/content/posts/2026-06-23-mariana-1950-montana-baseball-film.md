@@ -5,7 +5,7 @@ pubDate: 2026-06-23T15:04:00+09:00
 author: ""
 category: ""
 tags: ["마리아나 필름", "1950년 UFO", "몬태나 그레이트폴스", "프로젝트 블루북", "16밀리 UFO 영상", "닉 마리아나", "외계 미스터리", "F-94 전투기", "로버트 베이커", "콘돈 위원회"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=7xgkpt0fYcQ"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-06-23-mariana-1950-montana-baseball-film/scene-2_img_2.png"
 draft: false
 ---
