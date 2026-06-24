@@ -5,7 +5,7 @@ pubDate: 2026-06-24T13:43:00+09:00
 author: ""
 category: ""
 tags: ["말름스트롬UFO", "핵미사일UFO", "냉전UFO기밀", "로버트살라스증언", "1967UFO", "미니트맨미사일UFO", "미사일발사불능UFO", "기밀해제UFO", "냉전핵무기미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=guzHuMkOu08"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-06-24-malmstrom-afb-1967-nukes-shutdown/scene-2_img_2.png"
 draft: false
 ---
