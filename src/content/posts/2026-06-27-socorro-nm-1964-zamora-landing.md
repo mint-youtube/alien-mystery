@@ -5,7 +5,7 @@ pubDate: 2026-06-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["소코로UFO", "로니자모라", "뉴멕시코UFO착륙", "프로젝트블루북미확인", "1964UFO", "UFO착지흔적", "경찰관UFO목격", "외계미스터리", "UFO물리증거"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=hTIT9CZTvcM"
 heroImage: ""
 draft: false
 ---
