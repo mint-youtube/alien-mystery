@@ -5,7 +5,7 @@ pubDate: 2026-06-28T09:00:00+09:00
 author: ""
 category: ""
 tags: ["베티바니힐", "UFO납치사건", "외계인납치", "뉴햄프셔UFO", "최초UFO납치", "별지도제타레티쿨리", "최면UFO증언", "1961년UFO", "프로젝트블루북", "그레이외계인"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=sGt_1qVKbmc"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-06-28-betty-barney-hill-1961-abduction/scene-2_img_2.png"
 draft: false
 ---
