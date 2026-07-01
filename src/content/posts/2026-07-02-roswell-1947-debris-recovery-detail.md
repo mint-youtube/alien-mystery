@@ -5,7 +5,7 @@ pubDate: 2026-07-02T09:00:00+09:00
 author: ""
 category: ""
 tags: ["로즈웰", "1947년", "UFO", "비행접시", "마르셀 소령", "모굴 프로젝트", "외계 미스터리", "미공군 기밀", "그러쉬 청문회", "뉴멕시코"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=GEsREzo6B6U"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-02-roswell-1947-debris-recovery-detail/scene-2_img_2.png"
 draft: false
 ---
