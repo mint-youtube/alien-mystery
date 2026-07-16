@@ -5,7 +5,7 @@ pubDate: 2026-07-16T10:26:00+09:00
 author: ""
 category: ""
 tags: ["밸런티치 실종", "배스해협 미스터리", "UFO 목격 사건", "1978 세스나 실종", "미확인 비행체", "프레더릭 밸런티치", "호주 UFO", "미제 실종 사건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=l9ZTMy05BJg"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-16-valentich-disappearance-1978/scene-2_img_2.png"
 draft: false
 ---
