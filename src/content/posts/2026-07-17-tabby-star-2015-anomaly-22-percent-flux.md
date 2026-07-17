@@ -5,7 +5,7 @@ pubDate: 2026-07-17T18:54:00+09:00
 author: ""
 category: ""
 tags: ["타비의 별", "KIC 8462852", "다이슨 구", "외계 문명", "케플러 우주망원경", "우주 미스터리", "보야지안", "먼지구름 가설"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=91PK44UHNDw"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-17-tabby-star-2015-anomaly-22-percent-flux/scene-2_img_2.png"
 draft: false
 ---
