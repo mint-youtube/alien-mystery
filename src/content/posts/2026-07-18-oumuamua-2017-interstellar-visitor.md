@@ -5,7 +5,7 @@ pubDate: 2026-07-18T20:56:00+09:00
 author: ""
 category: ""
 tags: ["오무아무아", "성간천체", "우주미스터리", "아비로브", "외계문명", "팬스타스", "다이슨돛", "천문학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4UXxGLqr1Bk"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-18-oumuamua-2017-interstellar-visitor/scene-2_img_2.png"
 draft: false
 ---
