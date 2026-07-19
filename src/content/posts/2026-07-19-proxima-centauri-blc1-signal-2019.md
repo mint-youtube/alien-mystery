@@ -5,7 +5,7 @@ pubDate: 2026-07-19T17:40:00+09:00
 author: ""
 category: ""
 tags: ["BLC1", "프록시마 켄타우리", "982.002MHz", "외계 신호", "브레이크스루 리슨", "파크스 천문대", "전파 간섭", "SETI", "외계 생명체", "우주 신호"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=nKUoX160NOk"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-19-proxima-centauri-blc1-signal-2019/scene-2_img_2.png"
 draft: false
 ---
