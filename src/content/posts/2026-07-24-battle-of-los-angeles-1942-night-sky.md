@@ -5,7 +5,7 @@ pubDate: 2026-07-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["로스앤젤레스 전투", "1942 LA UFO", "대공포 1430발", "프랭크 녹스", "헨리 스팀슨", "I-17 잠수함", "오라일리 대령", "LA타임스 1면", "외계 미스터리", "기상 풍선설"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=h_0Z-8WwSYQ"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-24-battle-of-los-angeles-1942-night-sky/scene-2_img_2.png"
 draft: false
 ---
