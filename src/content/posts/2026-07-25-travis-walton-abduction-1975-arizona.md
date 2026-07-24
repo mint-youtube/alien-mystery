@@ -5,7 +5,7 @@ pubDate: 2026-07-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["트래비스 월튼", "1975 애리조나 UFO", "외계인 납치", "거짓말 탐지기", "벌목공 실종", "마이크 로저스", "파이어 인 더 스카이", "외계 미스터리", "시트그리브스 숲", "5일 실종"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=9B0AQQssu8I"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-25-travis-walton-abduction-1975-arizona/scene-2_img_2.png"
 draft: false
 ---
