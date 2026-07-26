@@ -5,7 +5,7 @@ pubDate: 2026-07-26T20:29:00+09:00
 author: ""
 category: ""
 tags: ["웨스털 사건", "1966년 호주 UFO", "멜버른 UFO", "외계 미스터리", "은빛 원반체", "샤인 도슨", "호주 학생 목격", "호주 정부 기밀", "그레인지 보호림", "호주판 로즈웰"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=LDto8kmvkGk"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-26-westall-1966-australia-school-200-witnesses/scene-2_img_2.png"
 draft: false
 ---
