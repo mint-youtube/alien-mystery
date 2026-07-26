@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["소코로 UFO 사건", "로니 자모라", "하이넥 박사", "프로젝트 블루북", "1964년 UFO", "미제 UFO 사건", "미확인비행물체", "뉴멕시코 UFO"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=1aN-kTRwzfI"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-27-lonnie-zamora-socorro-1964-egg-craft/scene-2_img_2.png"
 draft: false
 ---
