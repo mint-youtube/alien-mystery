@@ -5,7 +5,7 @@ pubDate: 2026-07-29T20:59:00+09:00
 author: ""
 category: ""
 tags: ["파스카굴라 사건", "파스카굴라 UFO", "찰스 힉슨", "캘빈 파커", "UFO 납치", "외계인 조우", "미제 UFO", "1973년 UFO"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RH2YVFUxO0I"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-29-pascagoula-1973-mississippi-abduction/scene-2_img_2.png"
 draft: false
 ---
