@@ -5,7 +5,7 @@ pubDate: 2026-07-30T20:55:00+09:00
 author: ""
 category: ""
 tags: ["밸 존슨 사건", "미네소타 UFO", "1979 UFO 목격", "순찰차 UFO", "미제 UFO 사건", "UFO 물리적 증거", "외계 미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ytFgzLNl5kY"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-30-val-johnson-1979-minnesota-car-encounter/scene-2_img_2.png"
 draft: false
 ---
