@@ -5,7 +5,7 @@ pubDate: 2026-07-31T12:04:00+09:00
 author: ""
 category: ""
 tags: ["트랑앙프로방스 사건", "프랑스 UFO", "1981 UFO 착륙", "UFO 물리적 증거", "엽록소 감소", "UFO 정부 조사", "외계 미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=UbsOKiNRxn0"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-07-31-trans-en-provence-1981-farmer-landing/scene-2_img_2.png"
 draft: false
 ---
