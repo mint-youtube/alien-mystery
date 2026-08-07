@@ -5,7 +5,7 @@ pubDate: 2026-08-07T19:24:00+09:00
 author: ""
 category: ""
 tags: ["켁스버그 UFO", "켁스버그 사건", "미국판 로즈웰", "미확인 비행체", "UFO 회수", "펜실베이니아 UFO", "외계 미스터리", "정부 기밀 UFO", "도토리 물체"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=65iAW-c7G2Y"
 heroImage: "https://assets.dailynote.blog/alien-mystery/2026-08-07-kecksburg-pennsylvania-1965-recovery/scene-2_img_2.png"
 draft: false
 ---
